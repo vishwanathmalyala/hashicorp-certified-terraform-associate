@@ -13,7 +13,7 @@
 - Unzip the package
 ```
 # Copy binary zip file to a folder
-mkdir /Users/<YOUR-USER>/Documents/terraform-install
+mkdir /Users/<YOUR-USER>/D:TerraformAssociate/terraform-install
 COPY Package to "terraform-install" folder
 
 # Unzip
